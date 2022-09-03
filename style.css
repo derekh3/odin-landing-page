@@ -179,3 +179,15 @@ footer {
     padding: 50px 150px;
     color: #E5E7EB;
 }
+
+@media (max-width: 768px) {
+
+    nav,
+    header,
+    .cards-section,
+    .quote-section,
+    footer {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
