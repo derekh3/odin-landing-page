@@ -68,6 +68,7 @@ header {
 header img {
     width: 400px;
     height: auto;
+    border-radius: 10%;
 }
 
 .cards-section {
@@ -146,6 +147,7 @@ header img {
     align-items: center;
     padding: 20px 60px;
     gap: 60px;
+    border-radius: 10px;
 }
 
 .call-text {
