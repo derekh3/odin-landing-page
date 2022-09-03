@@ -103,13 +103,13 @@ header img {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    width: 130px;
+    width: 200px;
     align-items: flex-start;
 }
 
 .card-image {
     border: 5px solid #3882F6;
-    height: 80px;
+    height: 120px;
     width: auto;
     border-radius: 10%;
 }
