@@ -1,3 +1,7 @@
+button:hover {
+    filter: brightness(90%);
+}
+
 nav,
 header {
     padding-left: 150px;
